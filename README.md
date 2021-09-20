@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @than92
 - 👀 I’m interested in PHP, C# and Java
-- 🌱 I’m currently learning Pytom
+- 🌱 I’m currently learning Net Core and Phytom
 - 💞️ I’m looking to collaborate on noting at the momment
 - 📫 How to reach me than92@hotmail.es
 - fb.com/than92
